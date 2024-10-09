@@ -1,4 +1,4 @@
-# README - Diabetes Classification Model
+# README - Diabetes Readmission Classification Model
 
 ## Overview
 This repository contains the implementation and evaluation of different classification models to predict outcomes based on a given dataset. The models evaluated include Logistic Regression, Decision Tree, Random Forest, Multi-Layer Perceptron (MLP), and Neural Network. The primary objective is to assess the performance of these models using various metrics, including accuracy, precision, and recall.
